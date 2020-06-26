@@ -6,6 +6,7 @@ input.txt is compressed to binary file compressed.bin using compress.cpp / optco
 
 compressed.bin is decompress to text file decompressed.txt using decompress.cpp / optdecompress.cpp
 
+
 -How I made compressed.bin file
 ![compbin 설명](https://user-images.githubusercontent.com/61370901/85908626-bf06a680-b850-11ea-8ec1-f1858bf4b574.PNG)
 
