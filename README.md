@@ -2,7 +2,8 @@
 
 Implementation of Huffman coding with ***default version*** and ***optimized version***
 
-input.txt is compressed to binary file compressed.bin using compress.cpp / optcompress.cpp
+input.txt is compressed to binary file compressed.bin using compress.cpp / optcompress.cpp 
+
 compressed.bin is decompress to text file decompressed.txt using decompress.cpp / optdecompress.cpp
 
 -How I made compressed.bin file
